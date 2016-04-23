@@ -1,0 +1,41 @@
+beef broth:10
+beef:1069
+bell pepper:53
+bread:75
+broccoli:27
+butter:102
+carrot:13
+celery:19
+cheese:676
+chicken:1012
+cream:42
+dijon mustard:10
+egg:55
+flour:430
+garlic:4.5
+grapes:97
+jelly:47
+lemon juice:3.3
+lemon:20
+lettuce:8.3
+mayonnaise:969
+milk:162
+olive oil:119
+onion:64
+paprika:6.5
+pasta:70
+peanut butter:95
+peas:149
+pecans:779
+pepper:6.2
+pesto:100
+potato:135
+rice:261
+salt:0
+soy sauce:115
+tarragon:14
+tomato sauce:380
+tomato:21
+tuna spread:232
+vanilla:12
+worcestershire sauce:4.5

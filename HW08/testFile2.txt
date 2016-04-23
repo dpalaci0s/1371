@@ -1,0 +1,7 @@
+This line is balanced.
+(So is this line).
+This line is {(()(correct)())}[][][[[({()()[()]}{})]]] although it looks awful.
+((This is some unbalanced parenthetical information (a.) And here is some more stuff)
+Pretty much all emojis will be unbalanced :(
+But this line is fine.
+)Watch out for this(
